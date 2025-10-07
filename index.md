@@ -3,5 +3,7 @@ title: Home
 layout: home
 ---
 
-Bon anniversaire!
+## Bon anniversaire!
+
+This is a companion website to go with the flavor kit I built you.
 
