@@ -1,7 +1,7 @@
 ---
 title: Spicy Garlic Noodles
 layout: page
-parent: Test
+parent: All Recipes
 ---
 
 ## Spicy Garlic Noodles
