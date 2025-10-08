@@ -10,3 +10,10 @@ search_exclude: true
 ## Bon anniversaire!
 
 This is a companion website to go with the flavor kit I built you.
+
+
+### Sauces Included
+
+#### Doubinjiang
+
+#### Soy Sauce
