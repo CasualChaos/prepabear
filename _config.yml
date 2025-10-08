@@ -2,5 +2,7 @@ title: PrepaBear
 description: A companion website for spicy East Asian cooking
 theme: just-the-docs
 
+search_enabled: false
+
 url: https://prepabear.com
 
