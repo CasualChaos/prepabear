@@ -3,6 +3,7 @@ description: A companion website for spicy East Asian cooking
 theme: just-the-docs
 
 search_enabled: false
+color_scheme: primary
 
 url: https://prepabear.com
 
