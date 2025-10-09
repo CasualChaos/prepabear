@@ -5,7 +5,7 @@ nav_order: 1
 search_exclude: true
 ---
 
-![Logo](/images/placeholder.png)
+![Logo](/images/Logo.png)
 
 # Bon anniversaire!
 
@@ -36,3 +36,6 @@ I'm hoping you don't already have a bottle. But this can and should go on everyt
 Japanese. A paste made from yuzu, japanese citrus, chili peppers and salt. 
 Turns out it's really hard to find on short notice. But I found a place I could get some online. But uhh it's not here yet.
 I've included a chicken recipe to use this with, but I think it would be nice as a dip. 
+
+### Kopiko Candies
+Surely you know what these are. I would have committed a murder to get these in high school.
