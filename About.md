@@ -4,6 +4,8 @@ layout: default
 nav_order: zz
 
 ---
+
+## About
 This is a companion site the to the little East Asian Spicy Kit I put together.
 
 Some additional notes:
