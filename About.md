@@ -1,6 +1,7 @@
 ---
-Title: About
-layout: page
+title: About
+layout: default
+nav_order: zz
 
 ---
 This is a companion site the to the little East Asian Spicy Kit I put together.
