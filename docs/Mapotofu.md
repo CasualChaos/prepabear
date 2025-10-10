@@ -14,19 +14,21 @@ Mapo Tofu is a Chinese dish from Sichuan Province. I chose it because it's an un
 - 6-8 dried red chilies, roughly chopped
 - 1 tablespoon (or to taste) Sichuan peppercorns, finely ground
 - 3 tablespoons ginger, minced
-- 3 tablespoons garlic, minced
+- 4-5 cloves garlic, minced
 - 225 g ground pork
 - 1-2 tablespoons doubanjiang
 - 155 ml chicken broth (or water)
 - 450 g silken tofu (cut into 2.5cm cubes)
 - 1/2 cup water
-- 1.5 teaspoons cornstarch
+- 1 1/2 teaspoons cornstarch
 
 #### Garnish, optional
 - 1/4 teaspoon sesame oil
 - 1/4 teaspoon sugar
 - 1/4 teaspoon Sichuan peppercorns, finely ground
 - 1 scallion, sliced
+
+### Instructions
 
 ##### First up
 Mix your half cup of water and cornstarch together in a small bowl and set aside.
@@ -37,3 +39,4 @@ Mix your half cup of water and cornstarch together in a small bowl and set aside
 4. Give the cornstarch and water a quick stir to recombine and add to the pan. Once the sauce starts to thicken add the set aside chili oil, peppers and all.
 5. Stir the oil into the sauce, and add the tofu. Use your spatula to gently toss the tofu in the sauce. Let everything cook for 3-5 minutes. Add the sesame oil, sugar and scallions. Stir until the scallions are just wilted. 
 6. Sprinkle some more ground sichuan peppercorns if you want.
+Serve!
