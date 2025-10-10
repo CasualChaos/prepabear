@@ -5,7 +5,9 @@ parent: All Recipes
 ---
 
 ## Mapo Tofu
-Mapo Tofu is a Chinese dish from Sichuan Province. I chose it because it's an uncomplicated stir-fry.
+Mapo Tofu is a Chinese dish from Sichuan Province. I chose it because it's an uncomplicated stir-fry. Serve with rice.
+
+Servings: 5-6
 
 ### Ingredients
 

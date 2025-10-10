@@ -10,6 +10,7 @@ Use whatever protein you feel like, beef, pork, tofu, boiled eggs.
 Same for noodles, instant noodles, udon, lo mein.
 I usually like to undercook the noodles a bit because they'll keep cooking while everything else is happening.
 
+Servings: 2
 
 ### Ingredients
 - 300g Noodles
@@ -21,7 +22,7 @@ I usually like to undercook the noodles a bit because they'll keep cooking while
 #### Sauce
 - 2 tbsp Gochugaru or Chili Flakes
 - 2 tbsp Soy Sauce
-- 1/2 tbsp Black Vinegar
+- 1/2 tbsp Black Vinegar, sub a rice wine vinegar
 - 1 tbsp Sugar
 - 2-3 tbsp Sesame Seeds
 
