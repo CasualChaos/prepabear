@@ -1,6 +1,6 @@
 ---
 Title: About
-layout: page
+layout: default
 
 ---
 This is a companion site the to the little East Asian Spicy Kit I put together.
